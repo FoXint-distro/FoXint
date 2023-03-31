@@ -55,7 +55,7 @@ En los siguientes enlaces puedes descargarte nuestra OVA:
 - <a href="https://github.com/khast3x/h8mail" target="_blank">h8mail</a>
 - <a href="https://github.com/m4ll0k/infoga" target="_blank">Infoga</a>
 
-<strong>Herramientas Otros</strong>
+<strong>Otras Herramientas</strong>
 - <a href="https://github.com/radioactivetobi/geo-recon" target="_blank">GEO-RECON</a>
 - <a href="https://sundowndev.github.io/phoneinfoga/" target="_blank">PhoneInfoga</a>
 - <a href="https://www.httrack.com/" target="_blank">HTTrack y WebHTTrack</a>
