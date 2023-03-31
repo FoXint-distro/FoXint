@@ -24,12 +24,15 @@ En los siguientes enlaces puedes descargarte nuestra OVA:
 
 <strong>Herramientas Análisis de dominios, IPs y webs</strong>
 - <a href="https://github.com/michenriksen/aquatone" target="_blank">Aquatone</a>
+- <a href="https://github.com/Lazza/Carbon14" target="_blank">Carbon14</a>
 - <a href="https://github.com/jaygreig86/dmitry/" target="_blank">DMitry</a>
 - <a href="https://github.com/rbsec/dnscan" target="_blank">dnscan</a>
+- <a href="https://github.com/FortyNorthSecurity/EyeWitness" target="_blank">EyeWitness</a>
 - <a href="https://github.com/mschwager/fierce" target="_blank">fierce</a>
 - <a href="https://github.com/thewhiteh4t/FinalRecon" target="_blank">FinalRecon</a>
 - <a href="https://github.com/jevalenciap/iptodomain" target="_blank">iptodomain</a>
 - <a href="https://github.com/guelfoweb/knock" target="_blank">Knockpy</a>
+- <a href="https://github.com/s0md3v/Photon.git" target="_blank">Photon</a>
 - <a href="https://github.com/aboul3la/Sublist3r" target="_blank">Sublist3r</a>
 - <a href="https://github.com/projectdiscovery/subfinder" target="_blank">Subfinder</a>
 
@@ -37,6 +40,7 @@ En los siguientes enlaces puedes descargarte nuestra OVA:
 - <a href="https://github.com/securing/DumpsterDiver" target="_blank">DumpsterDiver</a>
 - <a href="https://exiftool.org/" target="_blank">ExifTool</a>
 - <a href="https://github.com/hvdwolf/jExifToolGUI" target="_blank">JExifToolGUI</a>
+- <a href="https://mediaarea.net/es/MediaInfo" target="_blank">MediaInfo</a>
 - <a href="https://github.com/laramies/metagoofil" target="_blank">metagoofil</a>
 
 <strong>Herramientas RRSS</strong>
@@ -52,10 +56,6 @@ En los siguientes enlaces puedes descargarte nuestra OVA:
 - <a href="https://github.com/m4ll0k/infoga" target="_blank">Infoga</a>
 
 <strong>Herramientas Otros</strong>
-- <a href="https://github.com/Lazza/Carbon14" target="_blank">Carbon14</a>
-- <a href="https://github.com/FortyNorthSecurity/EyeWitness" target="_blank">EyeWitness</a>
 - <a href="https://github.com/radioactivetobi/geo-recon" target="_blank">GEO-RECON</a>
-- <a href="https://mediaarea.net/es/MediaInfo" target="_blank">MediaInfo</a>
 - <a href="https://sundowndev.github.io/phoneinfoga/" target="_blank">PhoneInfoga</a>
-- <a href="https://github.com/s0md3v/Photon.git" target="_blank">Photon</a>
 - <a href="https://www.httrack.com/" target="_blank">HTTrack y WebHTTrack</a>
