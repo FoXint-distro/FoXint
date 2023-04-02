@@ -4,11 +4,7 @@ Distribución Linux (Ubuntu 22.04) para realizar OSINT
 
 FoXint es una distribución usable por cualquier investigador, con conocimientos más o menos avanzados en informática y uso de herramientas. Sea del ámbito que sea, tanto periodistas, como detectives o investigadores privados, fuerzas y cuerpos de seguridad del estado, pentester, analistas de malware y cualquier tipo de investigador que necesite obtener inteligencia de fuentes abiertas.
 
-En la distribución se integran tanto herramientas instaladas en la máquina virtual, como marcadores de acceso a herramientas online, así como extensiones de los navegadores, todos ellos agrupados por categorías. FoXint cuenta con 38 herramientas instaladas listas para ser utilizadas o tras una configuración mínima de claves API, también cuenta con más de 200 marcadores en los tres navegadores instalados (Firefox, Chromium y Tor Browser) y diferentes extensiones instaladas en Firefox y Chromium.
-
-# Descarga
-En los siguientes enlaces puedes descargarte nuestra OVA:
-
+En la distribución se integran tanto herramientas instaladas en la máquina virtual, como marcadores de acceso a herramientas online, así como extensiones de los navegadores, todos ellos agrupados por categorías. FoXint cuenta con 38 herramientas instaladas listas para ser utilizadas o tras una configuración mínima de claves API, también cuenta con más de 200 marcadores en los tres navegadores instalados (Firefox, Chromium y Tor Browser) y 17 extensiones instaladas en Firefox y Chromium.
 
 # Listado de herramientas instaladas
 <strong>Herramientas Generalistas</strong>
@@ -59,3 +55,14 @@ En los siguientes enlaces puedes descargarte nuestra OVA:
 - <a href="https://github.com/radioactivetobi/geo-recon" target="_blank">GEO-RECON</a>
 - <a href="https://sundowndev.github.io/phoneinfoga/" target="_blank">PhoneInfoga</a>
 - <a href="https://www.httrack.com/" target="_blank">HTTrack y WebHTTrack</a>
+
+# Descarga
+<strong>NOTA:</strong> Para poder utilizar nuestra OVA es necesario VirtualBox 7.0 o superior
+
+En los siguientes enlaces puedes descargarte nuestra OVA:
+
+<strong>DRIVE:</strong> https://drive.google.com/file/d/1B7E5byzDyrbjyqBz5KSbmsJg2SROLYow/view?usp=share_link
+
+<strong>MEGA:</strong>
+
+# Demo
