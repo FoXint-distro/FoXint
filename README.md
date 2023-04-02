@@ -63,6 +63,6 @@ En los siguientes enlaces puedes descargarte nuestra OVA:
 
 <strong>DRIVE:</strong> https://drive.google.com/file/d/1B7E5byzDyrbjyqBz5KSbmsJg2SROLYow/view?usp=share_link
 
-<strong>MEGA:</strong>
+<strong>MEGA:</strong> https://mega.nz/file/0f5xwQqa#5codT_ftMUVXO8ZtZcv6LAPVj-jV1Vq5bGVddIUi_P0
 
 # Demo
