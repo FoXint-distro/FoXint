@@ -59,10 +59,10 @@ En la distribución se integran tanto herramientas instaladas en la máquina vir
 # Descarga
 <strong>NOTA:</strong> Para poder utilizar nuestra OVA es necesario VirtualBox 7.0 o superior
 
-En los siguientes enlaces puedes descargarte nuestra OVA:
+En los siguientes enlaces puedes descargarte la imagen OVA:
 
-<strong>DRIVE:</strong> https://drive.google.com/file/d/1B7E5byzDyrbjyqBz5KSbmsJg2SROLYow/view?usp=share_link
+<strong>DRIVE:</strong> https://drive.google.com/file/d/1NmnnMsZ_9-Zrs1-VGlMYt-uNPEHiXfca/view?usp=share_link
 
-<strong>MEGA:</strong> https://mega.nz/file/0f5xwQqa#5codT_ftMUVXO8ZtZcv6LAPVj-jV1Vq5bGVddIUi_P0
+<strong>MEGA:</strong> https://mega.nz/file/MXIniChS#igNSMq_4OKd0L2StQ0u2Af4j6pJydBgg9yYGEK4vE1w
 
 # Demo
